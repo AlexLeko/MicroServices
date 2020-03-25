@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6108588a-d67a-48a6-b7d4-a14536e89331" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo" />
+  </component>
+  <component name="ProjectId" id="1ZSRwAE5bVdpu2BVyo8Vkd5KDAP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-config-server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-cloud-config-server" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6108588a-d67a-48a6-b7d4-a14536e89331" name="Default Changelist" comment="" />
+      <created>1584830744726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584830744726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/git-localconfig-repo" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="1257" width="1084" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584838532934">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="418" y="1257" width="1084" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584838532934" />
+    <state x="645" y="1341" width="610" height="510" key="FileChooserDialogImpl" timestamp="1584838605605">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="645" y="1341" width="610" height="510" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584838605605" />
+    <state x="443" y="1176" width="1024" height="843" key="SettingsEditor" timestamp="1584838583655">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="443" y="1176" width="1024" height="843" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584838583655" />
+    <state x="646" y="1201" width="628" height="795" key="find.popup" timestamp="1584832216025">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="646" y="1201" width="628" height="795" key="find.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584832216025" />
+  </component>
+</project>
